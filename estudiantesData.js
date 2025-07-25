@@ -582,10 +582,10 @@ const estudiantes = {
     "MS EXCEL": "20",
     "GESTION DE NEGOCIOS ": "20",
     "COMUNICACIÓN EFECTIVA": "20",
-    "EFSRT": "NP",
-    "APROBADAS": "5",
-    "DESAPROBADAS": "1",
-    "CONDICION": "DESAPROBADO"
+    "EFSRT": "13",
+    "APROBADAS": "6",
+    "DESAPROBADAS": "0",
+    "CONDICION": "APROBADO"
   },
   "46963029": {
     "DNI": "46963029",
