@@ -1022,7 +1022,7 @@ const estudiantes = {
     "CONDICION": "DESAPROBADO"
   },
   "75695904": {
-    "DNI": "75695904",
+    "DNI": "75695984",
     "NOMBRE Y APELLIDO": "LOPINTA AYMA, Rosa Liniet",
     "TURNO": "TARDE",
     "ESTUDIO DE SISTEMAS OPERATIVOS": "0",
@@ -1453,7 +1453,7 @@ const estudiantes = {
     "EFSRT": "20",
     "APROBADAS": "6",
     "DESAPROBADAS": "0",
-    "CONDICION": "DESAPROBADO"
+    "CONDICION": "APROBADO"
   },
   "40085356": {
     "DNI": "40085356",
@@ -1511,7 +1511,7 @@ const estudiantes = {
     "DESAPROBADAS": "0",
     "CONDICION": "APROBADO"
   },
-  "75695904_1": {
+  "75695904": {
     "DNI": "75695904",
     "NOMBRE Y APELLIDO": "LOPINTA AYMA, Rosa Liniet",
     "TURNO": "NOCHE",
@@ -1703,8 +1703,8 @@ const estudiantes = {
     "GESTION DE NEGOCIOS ": "20",
     "COMUNICACIÓN EFECTIVA": "20",
     "EFSRT": "20",
-    "APROBADAS": "0",
-    "DESAPROBADAS": "6",
+    "APROBADAS": "6",
+    "DESAPROBADAS": "0",
     "CONDICION": "APROBADO"
   },
   "72893668": {
