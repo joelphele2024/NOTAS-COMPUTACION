@@ -1133,8 +1133,8 @@ const estudiantes = {
     "DESAPROBADAS": "1",
     "CONDICION": "DESAPROBADO"
   },
-  "22345678": {
-    "DNI": "22345678",
+  "61835532": {
+    "DNI": "61835532",
     "NOMBRE Y APELLIDO": "RAMOS TOREM, Dannait Daniela",
     "TURNO": "TARDE",
     "ESTUDIO DE SISTEMAS OPERATIVOS": "20",
@@ -1750,3 +1750,4 @@ const estudiantes = {
     "CONDICION": "APROBADO"
   }
 };
+
